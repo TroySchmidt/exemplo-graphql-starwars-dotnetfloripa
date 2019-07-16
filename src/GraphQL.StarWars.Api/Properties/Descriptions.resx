@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="The_id_of_the_0" xml:space="preserve">
+        <value>The id of the {0}.</value>
+    </data>
+    <data name="The_name_of_the_0" xml:space="preserve">
+        <value>The name of the {0}.</value>
+    </data>
+    <data name="Which_movie_they_appear_in" xml:space="preserve">
+        <value>Which movie they appear in.</value>
+    </data>
+    <data name="A_mechanical_creature_in_the_Star_Wars_universe" xml:space="preserve">
+        <value>A mechanical creature in the Star Wars universe.</value>
+    </data>
+    <data name="The_primary_function_of_the_droid" xml:space="preserve">
+        <value>The primary function of the droid.</value>
+    </data>
+    <data name="Released_in_0" xml:space="preserve">
+        <value>Released in {0}.</value>
+    </data>
+    <data name="One_of_the_films_in_the_Star_Wars_Trilogy" xml:space="preserve">
+        <value>One of the films in the Star Wars Trilogy.</value>
+    </data>
+    <data name="The_home_planet_of_the_human" xml:space="preserve">
+        <value>The home planet of the human.</value>
+    </data>
+</root>
